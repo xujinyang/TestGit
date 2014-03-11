@@ -12,10 +12,14 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         init();
         setListener();
+        getDate();
     }
+    private void getDate() {
+		
+	}
 
 
-    private void setListener() {
+	private void setListener() {
 		// TODO Auto-generated method stub
 		
 	}
